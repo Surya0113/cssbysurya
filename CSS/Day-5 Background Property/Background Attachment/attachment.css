@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+section{
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    display: grid;
+}
+.section-1{
+    background-image: url('https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/defender_130_outbound_1_0-sixteen_nine.jpg?VersionId=QjGSseoQ7qqDzaYtsK7PMFSyHXvyhTLe&size=690:388');
+}
+.section-2{
+    background-image: url('https://images.livemint.com/img/2024/07/25/600x338/thar_roxx_1721904586918_1721904598426.png');
+}
+.section-3{
+    background-image: url('https://www.cartoq.com/wp-content/uploads/2021/12/Thar-dieseltronic-featured.jpg');
+}
+.section-4{
+    background-image: url('https://www.cartoq.com/wp-content/uploads/2022/05/fortuner-gr-s-1.jpg');
+}
+.section-5{
+background-image: url('https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2023/Products/911-S-T/911-S-T-studio/S23_1162_fine.jpg/jcr:content/S23_1162_fine.jpg');
+}
+.section-6{
+    background-image: url('https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i35612547/2018_audi_r8_angularfront.jpg');
+}
+.section-7{
+    background-image: url('https://cars.usnews.com/pics/size/390x290/images/Auto/izmo/i159615503/2023_bmw_8_series_angularfront.jpg');
+}
+
+h1{
+    color:white;
+   
+    margin: 250px;
+    margin-left: 450px;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+   
+}
